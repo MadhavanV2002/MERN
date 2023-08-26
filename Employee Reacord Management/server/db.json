@@ -1,0 +1,59 @@
+{
+  "admin": [
+    {
+      "mail": "admin@gmail.com",
+      "firstname": "Admin",
+      "lastname": "1",
+      "age": "23",
+      "role": "Designer",
+      "phone": "1111111111",
+      "address": "xxx, yyy, zzz",
+      "pass": "admin@123",
+      "id": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "mail": "employee1@gmail.com",
+      "pass": "Mathavan@2002",
+      "firstname": "Employee",
+      "lastname": "1",
+      "age": "25",
+      "job": "Developer",
+      "phone": "222222222",
+      "address": "xxx, yyy, zzz",
+      "employementtype": "Full Time",
+      "current": "Employee Record Management System",
+      "department": "Development"
+    },
+    {
+      "id": "2",
+      "pass": "Welcome123",
+      "firstname": "Employee",
+      "lastname": "2",
+      "mail": "employee2@gmail.com",
+      "age": "45",
+      "job": "Software Developer",
+      "department": "RoR",
+      "employementtype": "Full Time",
+      "address": "xxx, yyy, zzzz",
+      "phone": "333333333",
+      "current": "CRUD Opreation"
+    },
+    {
+      "id": "5",
+      "pass": "Welcome123",
+      "firstname": "employee",
+      "lastname": "3",
+      "mail": "employee3@gmail.com",
+      "age": "45",
+      "job": "Software Developer",
+      "department": "RoR",
+      "employementtype": "Full Time",
+      "address": "xxx, yyy, zzzz",
+      "phone": "444444444",
+      "current": "CRUD Opreation"
+    }
+  ]
+}
